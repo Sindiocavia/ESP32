@@ -1,4 +1,4 @@
-#TECHNICAL ASSIGNMENT 1
+# TECHNICAL ASSIGNMENT 1
 
 Tugas ini menggunakan ESP32 yang terhubung dengan sensor DHT11 untuk mengukur kelembapan dan data yang terdeteksi akan dikirim ke server Flask 
 
