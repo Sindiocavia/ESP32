@@ -1,4 +1,5 @@
 #TECHNICAL ASSIGNMENT 1
+
 Tugas ini menggunakan ESP32 yang terhubung dengan sensor DHT11 untuk mengukur kelembapan dan data yang terdeteksi akan dikirim ke server Flask 
 
 ## Komponen
@@ -13,7 +14,7 @@ Tugas ini menggunakan ESP32 yang terhubung dengan sensor DHT11 untuk mengukur ke
 - `DHT11Kelembapan.ino` - File Arduino yang berisi kode untuk membaca data kelembapan dari sensor DHT11 dan mengirimkannya ke server Flask.
 
 
-### Perangkat Lunak
+## Perangkat Lunak
 
 - Arduino IDE dengan dukungan ESP32
 - Python 3.x
